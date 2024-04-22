@@ -8,7 +8,7 @@ We initialized a random city with any desired number of intersections, filling i
 
  * define constants are defined with `values of 20`. These constants are used to define the dimensions of the city array.
 
-><img src="./img/1.png" width="1024" height="300">
+><img src="./img/1.png" width="800" height="400">
 
  * The `ClearScreen()` function is one that clears the console screen.
 
