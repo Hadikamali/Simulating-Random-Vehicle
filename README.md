@@ -8,12 +8,12 @@ We initialized a random city with any desired number of intersections, filling i
 
  * define constants are defined with `values of 20`. These constants are used to define the dimensions of the city array.
 
- >![id](./img/1.png)
+><img src="./img/1.png" width="500" height="450">
 
  * The `ClearScreen()` function is one that clears the console screen.
 
- >![id](./img/2.png) 
+><img src="./img/2.png" width="500" height="450">
 
  * The city_p() function initializes the city array with dashes ('-') and randomly places a specified number of intersections, denoted by '#', in the city array
  
-  >![id](./img/2.png) 
+><img src="./img/3.png" width="500" height="450">
