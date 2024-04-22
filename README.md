@@ -29,3 +29,7 @@ We initialized a random city with any desired number of intersections, filling i
  * The printcity() function prints the current state of the city array.
  
 ><img src="./img/6.png" width="349" height="190">
+
+ * "In the main() function, the program asks the user to enter the number of cars, taghato, and iterations. It then initializes the city array and places the taghato using the citytaghato_p() function. It also dynamically allocates a two-dimensional array, negah_car, to store the positions of the cars. In the loop, each car is moved using the movecar() function, and its position in the negah_car array is updated. Then, it prints the current state of the city using printcity(), clears the screen, and repeats for a specified number of iterations. Finally, it frees the memory dynamically allocated for the negah_car array before returning from the program."
+
+><img src="./img/7.png" width="349" height="230">
