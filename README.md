@@ -20,5 +20,5 @@ We initialized a random city with any desired number of intersections, filling i
 
  * The validmove() function checks whether a movement is valid for a car, considering its current position, direction, and the city array. It verifies if the movement is within the city limits and not blocked by an intersection (denoted by '#').
  
-><img src="./img/4.png" width="320" height="700">
+><img src="./img/4.png" width="349" height="700">
 
