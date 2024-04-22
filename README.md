@@ -24,4 +24,4 @@ We initialized a random city with any desired number of intersections, filling i
 
  * The movecar() function moves a car within the city array. It generates a random direction and continues to generate new directions until a valid movement is found. Then, it updates the car's position in the city array.
  
-><img src="./img/5.png" width="349" height="700">
+><img src="./img/5.png" width="390" height="700">
