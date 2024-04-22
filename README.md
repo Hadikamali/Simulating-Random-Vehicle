@@ -12,7 +12,7 @@ We initialized a random city with any desired number of intersections, filling i
 
  * The `ClearScreen()` function is one that clears the console screen.
 
-><img src="./img/2.png" width="500" height="450">
+><img src="./img/2.png" width="349" height="110">
 
  * The city_p() function initializes the city array with dashes ('-') and randomly places a specified number of intersections, denoted by '#', in the city array
  
